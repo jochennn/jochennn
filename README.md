@@ -9,7 +9,7 @@
 ---
 
 ## <picture><img src ="https://media.giphy.com/media/lJoqZWcFDAbvy/giphy.gif" width = 50px></picture> **About me**
-- recent <i>Microbiology</i> and <i>Data Science</i> grad from <img src = "https://img.shields.io/badge/UBC-002145"/>
+- recent <i>Microbiology</i> and <i>Data Science</i> grad from <img src = "https://img.shields.io/badge/UBC-002145" height='20'/>
 <!--
 **jochennn/jochennn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
