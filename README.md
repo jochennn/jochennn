@@ -7,6 +7,9 @@
 <br>
 
 ## <picture><img src ="https://media.giphy.com/media/lJoqZWcFDAbvy/giphy.gif" width = 50px></picture> **About me**
+
+<br>
+- recent <strong>microbiology</strong> and <strong>data science</strong> grad
 <!--
 **jochennn/jochennn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
