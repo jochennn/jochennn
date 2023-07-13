@@ -1,6 +1,10 @@
 <h1 align ='center'><b>Hey stranger, I'm Jordon! Check out my GitHub page </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <p align="center">
   <img src = "https://media.giphy.com/media/5YbWCIZOApkQUgo75Y/giphy.gif"/><img src = "https://media.giphy.com/media/pb9Xok8BbyaFMWB3tu/giphy.gif"/></p>
+
+<br>
+
+## <picture><img src ="https://media.giphy.com/media/lJoqZWcFDAbvy/giphy.gif" width = 50px></picture> **About me**
 <!--
 **jochennn/jochennn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
