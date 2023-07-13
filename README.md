@@ -1,4 +1,6 @@
 <h1 align ='center'><b>Hey stranger, I'm Jordon! Check out my GitHub page </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<br>
+
 <p align="center">
   <img src = "https://media.giphy.com/media/pb9Xok8BbyaFMWB3tu/giphy.gif"/></p>
 
