@@ -1,6 +1,6 @@
 <h1 align ='center'><b>Hey stranger, I'm Jordon! Welcome to my GitHub page </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <p align="center">
-  <div class="tenor-gif-embed" data-postid="11923273" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/monta-ellis-gsw-nba-typing-slick-gif-11923273">Monta Ellis Gsw GIF</a>from <a href="https://tenor.com/search/monta+ellis-gifs">Monta Ellis GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script></p>
+  <img src = "https://media.giphy.com/media/pb9Xok8BbyaFMWB3tu/giphy.gif"/></p>
 <!--
 **jochennn/jochennn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
