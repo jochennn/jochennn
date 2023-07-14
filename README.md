@@ -7,6 +7,7 @@
 
 <br>
 
+
 <div id="badges" align ='center'>
   <a href="https://linkedin.com/in/jordon-chen-4b5121205" target="_blank">
     <img src = "https://img.shields.io/badge/linkedin:  Jordon Chen-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
@@ -18,7 +19,10 @@
 
 <br>
 
-  [🖨️](https://github.com/jochennn/jochennn/blob/main/JC_RESUME.pdf)
+<h2 align ='center'>
+<a href="./JC_RESUME.pdf" download>🖨️</a>
+</h2>
+
 
   
 
