@@ -4,16 +4,24 @@
 <p align="center">
   <img src = "https://media.giphy.com/media/pb9Xok8BbyaFMWB3tu/giphy.gif"/></p>
 
+<div id="badges" align ='center'>
+  <a href="www.linkedin.com/in/jordon-chen-4b5121205">
+    <img src = "https://img.shields.io/badge/linkedin:  Jordon Chen-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+  </a>
+  <a href="mailto:jordonochen@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail:  jordonochen-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+  </a>
+</div>
 
 
 ---
 
 ## <picture><img src ="https://media.giphy.com/media/lJoqZWcFDAbvy/giphy.gif" width = 50px></picture> **About me**
-- 🦠 recent <i>Microbiology</i> and <i>Data Science</i> grad from <i>UBC</i>
-- 🐠 species distribution modelling intern at <i>UBC Institute for the Oceans and Fisheries </i>
-- 🏀 basketball junkie
-- 🔨 [website](https://giphy.com/gifs/computer-disgusted-hammer-12bVDtXPOzYwda/tile) in progress ...
-- 🤖 currently working on machine learning & data analysis projects
+- 🦠 Recent <i>Microbiology</i> and <i>Data Science</i> grad from <i>UBC</i>
+- 🐠 Species distribution modelling intern at <i>UBC Institute for the Oceans and Fisheries </i>
+- 🏀 Basketball junkie
+- 🔨 [Website](https://giphy.com/gifs/computer-disgusted-hammer-12bVDtXPOzYwda/tile) in progress ...
+- 🤖 Currently working on machine learning & data analysis projects
 
 <!--
 **jochennn/jochennn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
