@@ -43,7 +43,7 @@
   
 - 🔨 [Website](https://giphy.com/gifs/computer-disgusted-hammer-12bVDtXPOzYwda/tile) in progress ...
   
-- 🤖 Currently working on machine learning, data analysis, & data visualization projects
+- 🤖 Currently working on _machine learning_, _data analysis_, & _data visualization_ projects
 
 <br>
 <br>
