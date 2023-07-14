@@ -1,8 +1,11 @@
 <h1 align ='center'><b>Hey stranger, I'm Jordon! Check out my GitHub page </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+
 <br>
 
 <p align="center">
   <img src = "https://media.giphy.com/media/pb9Xok8BbyaFMWB3tu/giphy.gif"/></p>
+
+<br>
 
 <div id="badges" align ='center'>
   <a href="https://linkedin.com/in/jordon-chen-4b5121205" target="_blank">
@@ -15,19 +18,27 @@
 
 <br>
 
-<div> id = "resume" align ='center'
+<div id = "resume" align ='center'>
+  [![printer icon](https://pngtree.com/freepng/printer-icon_5105608.html)]
+
   
 </div>
 
 
 
+
+
 ---
 
-## <picture><img src ="https://media.giphy.com/media/lJoqZWcFDAbvy/giphy.gif" width = 50px></picture> **About me**
+## <picture><img src ="https://media.giphy.com/media/lJoqZWcFDAbvy/giphy.gif" width = 50px></picture> **About me :**
 - 🦠 Recent <i>Microbiology</i> and <i>Data Science</i> grad from <i>UBC</i>
+
 - 🐠 Species distribution modelling intern at <i>UBC Institute for the Oceans and Fisheries </i>
+
 - 🏀 Basketball junkie
+  
 - 🔨 [Website](https://giphy.com/gifs/computer-disgusted-hammer-12bVDtXPOzYwda/tile) in progress ...
+  
 - 🤖 Currently working on machine learning & data analysis projects
 
 <!--
