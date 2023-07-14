@@ -54,9 +54,9 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Stats :</b>
 <div id= "stats" align ="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jochennn&theme=moltack&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jochennn&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jochennn&layout=compact&theme=moltack&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jochennn&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <br>
