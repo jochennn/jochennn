@@ -5,13 +5,20 @@
   <img src = "https://media.giphy.com/media/pb9Xok8BbyaFMWB3tu/giphy.gif"/></p>
 
 <div id="badges" align ='center'>
-  <a href="www.linkedin.com/in/jordon-chen-4b5121205">
+  <a href="https://linkedin.com/in/jordon-chen-4b5121205" target="_blank">
     <img src = "https://img.shields.io/badge/linkedin:  Jordon Chen-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
   </a>
   <a href="mailto:jordonochen@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail:  jordonochen-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
   </a>
 </div>
+
+<br>
+
+<div> id = "resume" align ='center'
+  
+</div>
+
 
 
 ---
