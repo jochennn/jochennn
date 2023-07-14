@@ -18,11 +18,9 @@
 
 <br>
 
-<div id = "resume" align ='center'>
-  [![printer icon](https://pngtree.com/freepng/printer-icon_5105608.html)]
+  [🖨️](https://github.com/jochennn/jochennn/blob/main/JC_RESUME.pdf)
 
   
-</div>
 
 
 
