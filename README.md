@@ -20,6 +20,8 @@
 <br>
 
 <h2 align ='center'>
+<p>Check out my RESUME!</p> 
+  <p><img src ="https://media.giphy.com/media/ItcYaVhkaJYl7BpDEU/giphy.gif" height ='80'/></p>
 <a href="./JC_RESUME.pdf" download>🖨️</a>
 </h2>
 
