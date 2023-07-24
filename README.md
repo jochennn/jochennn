@@ -45,6 +45,8 @@
   
 - 🤖 Currently working on _machine learning_, _data analysis_, & _data visualization_ projects
 
+- 📊 Learning Power BI & [Tableau](https://public.tableau.com/app/profile/jordon.chen)
+
 <br>
 <br>
 <br>
