@@ -35,9 +35,9 @@
 ---
 
 ## <picture><img src ="https://media.giphy.com/media/lJoqZWcFDAbvy/giphy.gif" width = 50px></picture> **About me :**
-- 🦠 Recent <i>Microbiology</i> and <i>Data Science</i> grad from <i>UBC</i>
+- 🦠 <i>Microbiology</i> and <i>Data Science</i> grad from <i>UBC</i>
 
-- 🐠 Species distribution modelling intern at <i>UBC Institute for the Oceans and Fisheries </i>
+- 🐠 Former species distribution modelling intern at <i>UBC Institute for the Oceans and Fisheries </i>
 
 - 🏀 Basketball junkie
   
